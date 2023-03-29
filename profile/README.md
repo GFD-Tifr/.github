@@ -6,7 +6,7 @@ Welcome to the official Github organization page for GFD-Tife! Here we host the 
 
 Here are the members of our organization:
 
-### Arun Varanasi (active)
+### Arun Varanasi `(active)`
 
 <img src="https://example.com/Arun Varanasi.png" width="100" height="100">
 
@@ -24,24 +24,24 @@ Here are the members of our organization:
 
 [Krithin G](https://github.com/janesmith) is a 
 
-### Madhav Sirohi
+### Madhav Sirohi (active)
 
 <img src="https://example.com/bobjohnson.png" width="100" height="100">
 
 [Madhav Sirohi](https://github.com/bobjohnson) is a 
 
-### Rajendra Rajpoot
+### Rajendra Rajpoot (active)
 
 <img src="https://example.com/sarahlee.png" width="100" height="100">
 
 [Rajendra Rajpoot](https://github.com/sarahlee) is a 
-### Rajarshi
+### Rajarshi (active)
 
 <img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="100 " height="133.35">
 
 [Rajarshi](https://github.com/Rajarshi-prime) is a grad student at ICTS-Tifr working in fluid dynamics.
 Contact: rajarshi.chattopadhyay@icts.res.in
-### Sanjay CP
+### Sanjay CP (active)
 
 <img src="https://example.com/sarahlee.png" width="100" height="100">
 
