@@ -6,7 +6,7 @@ Welcome to the official Github organization page for GFD-Tife! Here we host the 
 
 Here are the members of our organization:
 
-### Arun Varanasi `(active)`
+### Arun Varanasi (active)
 
 <img src="https://example.com/Arun Varanasi.png" width="100" height="100">
 
