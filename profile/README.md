@@ -37,9 +37,9 @@ Here are the members of our organization:
 [Rajendra Rajpoot](https://github.com/sarahlee) is a 
 ### Rajarshi
 
-<img src="https://example.com/sarahlee.png" width="100" height="100">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="100 " height="133.35">
 
-[Rajarshi](https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg) is a grad student at ICTS-Tifr working in fluid dynamics.
+[Rajarshi](https://github.com/Rajarshi-prime) is a grad student at ICTS-Tifr working in fluid dynamics.
 Contact: rajarshi.chattopadhyay@icts.res.in
 ### Sanjay CP
 
