@@ -1,20 +1,5 @@
 # GFD-Tifr
 
-The common repository having codes, plots, notes and more.
-
-Contributors and active members of the GFD-Tifr group:
-
-* Arun Varanasi
-* Jim Thomas
-* Krithin G
-* Madhav Sirohi
-* Rajendra Rajpoot
-* Rajarshi Chattopadhyay
-* Sanjay CP
-
-
-# GFD-Tifr
-
 Welcome to the official Github organization page for GFD-Tife! Here we host the common repositories having codes, plots, notes and more on the projects different people are working on.
 
 ## Members
@@ -33,23 +18,34 @@ Here are the members of our organization:
 
 [Jim Thomas](https://github.com/janesmith) is a faculty in ICTS-Tifr and CAM-Tifr. 
 
-### Jane Smith
+### Krithin G (active)
 
 <img src="https://example.com/janesmith.png" width="100" height="100">
 
-[Jane Smith](https://github.com/janesmith) is a front-end developer who specializes in creating responsive and accessible user interfaces. She is also an advocate for diversity and inclusion in tech.
+[Krithin G](https://github.com/janesmith) is a 
 
-### Bob Johnson
+### Madhav Sirohi
 
 <img src="https://example.com/bobjohnson.png" width="100" height="100">
 
-[Bob Johnson](https://github.com/bobjohnson) is a data scientist who has worked with various companies to help them make data-driven decisions. He is also a contributor to several open source data science projects.
+[Madhav Sirohi](https://github.com/bobjohnson) is a 
 
-### Sarah Lee
+### Rajendra Rajpoot
 
 <img src="https://example.com/sarahlee.png" width="100" height="100">
 
-[Sarah Lee](https://github.com/sarahlee) is a cybersecurity expert who has worked with both small businesses and large corporations to improve their security measures. She is also a public speaker on cybersecurity topics.
+[Rajendra Rajpoot](https://github.com/sarahlee) is a 
+### Rajarshi
+
+<img src="https://example.com/sarahlee.png" width="100" height="100">
+
+[Rajarshi](https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg) is a grad student at ICTS-Tifr working in fluid dynamics.
+Contact: rajarshi.chattopadhyay@icts.res.in
+### Sanjay CP
+
+<img src="https://example.com/sarahlee.png" width="100" height="100">
+
+[Sanjay CP](https://github.com/sarahlee) is a 
 
 ## Contact Us
 
