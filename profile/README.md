@@ -1,6 +1,7 @@
-# GFD-Tifr
 
-Welcome to the official Github organization page for GFD-Tife! Here we host the common repositories having codes, plots, notes and more on the projects different people are working on.
+# GFD-Tifr 
+
+Welcome to the official Github organization page for GFD-Tifr! Here we host the common repositories having codes, plots, notes and more on the projects different people are working on.
 
 ## Members
 
