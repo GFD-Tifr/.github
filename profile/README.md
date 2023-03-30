@@ -21,9 +21,9 @@ Here are the members of our organization:
 
 ### Krithin G (active)
 
-<img src="https://example.com/janesmith.png" width="100" height="100">
+<img src="https://icts.res.in/sites/default/files/styles/people_thumbnail/public/media/people/images/krithin.jpeg?itok=M5eZ3oFK&c=778762280094e19990fe7a991ad96d82" width="100" height="100">
 
-[Krithin G](https://github.com/janesmith) is a 
+[Krithin G](https://github.com/krithingowthaman) is a visiting student in the GFD group at ICTS.
 
 ### Madhav Sirohi (active)
 
