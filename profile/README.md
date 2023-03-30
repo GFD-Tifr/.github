@@ -27,9 +27,9 @@ Here are the members of our organization:
 
 ### Madhav Sirohi (active)
 
-<img src="https://example.com/bobjohnson.png" width="100" height="100">
+<img src="https://icts.res.in/sites/default/files/media/people/images/1661003622598.jpg" width="100" height="100">
 
-[Madhav Sirohi](https://github.com/bobjohnson) is a 
+[Madhav Sirohi](https://github.com/bobjohnson) is a visiting student in the GFD group at ICTS.
 
 ### Rajendra Rajpoot (active)
 
