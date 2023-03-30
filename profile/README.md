@@ -29,7 +29,7 @@ Here are the members of our organization:
 
 <img src="https://icts.res.in/sites/default/files/media/people/images/1661003622598.jpg" width="100" height="100">
 
-[Madhav Sirohi](https://github.com/Madhav-Madhav) is a visiting student in the GFD group at ICTS.
+[Madhav Sirohi](https://github.com/Madhav-Madhav) is a visiting student working in GFD at ICTS. E-mail: madhavsirohi.2012@gmail.com .
 
 ### Rajendra Rajpoot (active)
 
