@@ -7,7 +7,7 @@ Welcome to the official Github organization page for GFD-Tifr! Here we host the 
 
 Here are the members of our organization:
 
-### Arun Varanasi (active)
+### Arun Varanasi (inactive)
 
 <img src="https://example.com/Arun Varanasi.png" width="100" height="100">
 
@@ -19,13 +19,13 @@ Here are the members of our organization:
 
 [Jim Thomas](https://github.com/janesmith) is a faculty in ICTS-Tifr and CAM-Tifr. 
 
-### Krithin G (active)
+### Krithin G (former)
 
 <img src="https://icts.res.in/sites/default/files/styles/people_thumbnail/public/media/people/images/krithin.jpeg?itok=M5eZ3oFK&c=778762280094e19990fe7a991ad96d82" width="100" height="100">
 
 [Krithin G](https://github.com/krithingowthaman) is a visiting student in the GFD group at ICTS.
 
-### Madhav Sirohi (active)
+### Madhav Sirohi (former)
 
 <img src="https://icts.res.in/sites/default/files/media/people/images/1661003622598.jpg" width="100" height="100">
 
