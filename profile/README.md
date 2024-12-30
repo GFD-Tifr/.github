@@ -42,6 +42,13 @@ Here are the members of our organization:
 
 [Rajarshi](https://github.com/Rajarshi-prime) is a grad student at ICTS-Tifr working in fluid dynamics.
 Contact: rajarshi.chattopadhyay@icts.res.in
+
+### Nishant N. Uchale (active)
+
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/Profile_pic.jpg" width="100" height="100">
+
+[Nishant](https://github.com/nishantuchale) is a visiting student in the GFD group at ICTS.
+
 ### Sanjay CP (active)
 
 <img src="https://example.com/sarahlee.png" width="100" height="100">
