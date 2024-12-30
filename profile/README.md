@@ -48,6 +48,7 @@ Contact: rajarshi.chattopadhyay@icts.res.in
 <img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/hp.JPG" width="100" height="100">
 
 [Nishant](https://github.com/nishantuchale) is a visiting student in the GFD group at ICTS.
+Contact: nishant.uchale@icts.res.in
 
 ### Sanjay CP (active)
 
