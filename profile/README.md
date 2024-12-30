@@ -53,7 +53,7 @@ Contact: nishant.uchale@icts.res.in
 
 ### Sanjay CP (active)
 
-<img src="https://www.icts.res.in/sites/default/files/media/people/images/Passport_size_Photograph_PH16D050.jpg" width="90" height="100">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/Passport_size_Photograph_PH16D050.jpg" width="80" height="105">
 
 [Sanjay](https://github.com/sanjaycp93) is a Postdoctoral Fellow in the GFD group at ICTS.
 Contact: sanjay.cp@icts.res.in
