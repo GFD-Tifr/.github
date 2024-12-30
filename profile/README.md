@@ -35,7 +35,8 @@ Here are the members of our organization:
 
 <img src="https://example.com/sarahlee.png" width="100" height="100">
 
-[Rajendra Rajpoot](https://github.com/sarahlee) is a 
+[Rajendra Rajpoot](https://github.com/sarahlee) is a Postdoctoral Fellow
+
 ### Rajarshi (active)
 
 <img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="100 " height="133.35">
@@ -52,9 +53,10 @@ Contact: nishant.uchale@icts.res.in
 
 ### Sanjay CP (active)
 
-<img src="https://example.com/sarahlee.png" width="100" height="100">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/Passport_size_Photograph_PH16D050.jpg" width="100" height="100">
 
-[Sanjay CP](https://github.com/sarahlee) is a 
+[Sanjay](https://github.com/sanjaycp93) is a Postdoctoral Fellow in the GFD group at ICTS.
+Contact: sanjay.cp@icts.res.in
 
 ## Contact Us
 
