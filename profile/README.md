@@ -15,7 +15,7 @@ Here are the members of our organization:
 
 ### Jim Thomas (active)
 
-<img src="https://example.com/Jim Thomas.png" width="100" height="100">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/jimthomas_icts.jpg" width="100" height="100">
 
 [Jim Thomas](https://github.com/janesmith) is a faculty in ICTS-Tifr and CAM-Tifr. 
 
