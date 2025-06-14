@@ -39,14 +39,14 @@ Here are the members of our organization:
 
 ### Rajarshi (active)
 
-<img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="110 " height="140.35">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="110 " height="141">
 
 [Rajarshi](https://github.com/Rajarshi-prime) is a grad student at ICTS-Tifr working in fluid dynamics.
 Contact: rajarshi.chattopadhyay@icts.res.in
 
 ### Nishant N. Uchale (active)
 
-<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/personal/pondi_propic_small2.jpg" width="110" height="125">
+<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/personal/pondi_propic_small2.jpg" width="110" height="135">
 
 [Nishant](https://github.com/nishantuchale) is a visiting student in the GFD group at ICTS.
 Contact: nishant.uchale@icts.res.in
