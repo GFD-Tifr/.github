@@ -33,7 +33,7 @@ Here are the members of our organization:
 
 ### Rajendra Rajpoot (active)
 
-<img src="https://example.com/sarahlee.png" width="100" height="100">
+<img src="https://th.bing.com/th/id/OIP.v8yf_raldH9hCIP6wxdTXAAAAA?r=0&rs=1&pid=ImgDetMain" width="100" height="100">
 
 [Rajendra Rajpoot](https://github.com/sarahlee) is a Postdoctoral Fellow
 
