@@ -39,21 +39,21 @@ Here are the members of our organization:
 
 ### Rajarshi (active)
 
-<img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="100 " height="133.35">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/rajarshi-grid-img.jpg" width="110 " height="140.35">
 
 [Rajarshi](https://github.com/Rajarshi-prime) is a grad student at ICTS-Tifr working in fluid dynamics.
 Contact: rajarshi.chattopadhyay@icts.res.in
 
 ### Nishant N. Uchale (active)
 
-<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/personal/pondi_propic_small.jpg" width="115" height="110">
+<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/personal/pondi_propic_small.jpg" width="110" height="110">
 
 [Nishant](https://github.com/nishantuchale) is a visiting student in the GFD group at ICTS.
 Contact: nishant.uchale@icts.res.in
 
 ### Sanjay CP (active)
 
-<img src="https://www.icts.res.in/sites/default/files/media/people/images/Passport_size_Photograph_PH16D050.jpg" width="110" height="136">
+<img src="https://www.icts.res.in/sites/default/files/media/people/images/Passport_size_Photograph_PH16D050.jpg" width="110" height="137">
 
 [Sanjay](https://github.com/sanjaycp93) is a Postdoctoral Fellow in the GFD group at ICTS.
 Contact: sanjay.cp@icts.res.in
