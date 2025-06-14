@@ -46,7 +46,7 @@ Contact: rajarshi.chattopadhyay@icts.res.in
 
 ### Nishant N. Uchale (active)
 
-<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/hp.JPG" width="110" height="110">
+<img src="https://github.com/nishantuchale/nishantuchale.github.io/blob/master/images/personal/pondi_propic.png" width="110" height="110">
 
 [Nishant](https://github.com/nishantuchale) is a visiting student in the GFD group at ICTS.
 Contact: nishant.uchale@icts.res.in
